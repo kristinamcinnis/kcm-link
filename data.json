@@ -1,0 +1,494 @@
+{
+ "sample": false,
+ "profile": {
+  "name": "Kristina Catherine McInnis",
+  "initial": "KCM",
+  "tagline": "LA creator · Founder of KCMCONNECT · Elevated fashion and lifestyle faves",
+  "photo": "images/hero3.jpg",
+  "email": "collaborations@kcmconnect.co",
+  "shopUrl": "https://shopmy.us/shop/kcm"
+ },
+ "socials": [
+  {
+   "name": "Instagram",
+   "abbr": "IG",
+   "handle": "@kristinacatherinemcinnis",
+   "url": "https://www.instagram.com/kristinacatherinemcinnis/",
+   "icon": "images/icon-instagram.png"
+  },
+  {
+   "name": "TikTok",
+   "abbr": "TT",
+   "handle": "@kristinamcinnis",
+   "url": "https://www.tiktok.com/@kristinamcinnis",
+   "icon": "images/icon-tiktok.png"
+  },
+  {
+   "name": "Pinterest",
+   "abbr": "P",
+   "handle": "kristinacatherinemcinnis",
+   "url": "https://www.pinterest.com/kristinacatherinemcinnis/_saved/",
+   "icon": "images/icon-pinterest.png"
+  },
+  {
+   "name": "ShopMy",
+   "abbr": "SM",
+   "handle": "kcm",
+   "url": "https://shopmy.us/shop/kcm",
+   "icon": "images/icon-shopmy.png"
+  }
+ ],
+ "featured": {
+  "kicker": "New this week",
+  "title": "Fall Hosting Snack Bar",
+  "blurb": "Silver trays, apple martinis and all the snacks, every piece linked.",
+  "url": "https://shopmy.us/shop/collections/8766245",
+  "image": "images/c8766245.jpg"
+ },
+ "sections": [
+  {
+   "id": "shop",
+   "title": "Shop",
+   "kind": "covers",
+   "items": [
+    {
+     "name": "REVOLVE Favorites",
+     "note": "Outfits I love",
+     "url": "https://www.revolve.com/content/favorites/s/l/35134711/4173501",
+     "image": "images/revolve-cover.jpg"
+    },
+    {
+     "name": "My ShopMy",
+     "note": "Everything I've posted",
+     "url": "https://shopmy.us/shop/kcm",
+     "image": "images/shopmy-cover.jpg"
+    },
+    {
+     "name": "Amazon Shop",
+     "note": "Home & everyday finds",
+     "url": "https://www.amazon.com/shop/kristinacatherinemcinnis",
+     "image": "images/amazon-cover.jpg"
+    }
+   ]
+  },
+  {
+   "id": "closet",
+   "title": "Closet",
+   "kind": "tiles",
+   "items": [
+    {
+     "name": "Fall Closet",
+     "note": "",
+     "url": "https://shopmy.us/shop/collections/8784498",
+     "image": "images/c8784498.jpg"
+    },
+    {
+     "name": "Spring 2026",
+     "note": "",
+     "url": "https://shopmy.us/shop/collections/4968736",
+     "image": "images/c4968736.jpg"
+    },
+    {
+     "name": "Coachella",
+     "note": "",
+     "url": "https://shopmy.us/shop/collections/4256240",
+     "image": "images/c4256240.jpg"
+    },
+    {
+     "name": "Europe 2026",
+     "note": "",
+     "url": "https://shopmy.us/shop/collections/4205242",
+     "image": "images/c4205242.jpg"
+    },
+    {
+     "name": "Capsule Closet",
+     "note": "",
+     "url": "https://shopmy.us/shop/collections/3958732",
+     "image": "images/c3958732.jpg"
+    },
+    {
+     "name": "Cabo 2025",
+     "note": "",
+     "url": "https://shopmy.us/shop/collections/2872514",
+     "image": "images/c2872514.jpg"
+    },
+    {
+     "name": "Fall 2025",
+     "note": "",
+     "url": "https://shopmy.us/shop/collections/2769134",
+     "image": "images/c2769134.jpg"
+    },
+    {
+     "name": "Amalfi Coast 2025",
+     "note": "",
+     "url": "https://shopmy.us/shop/collections/2729290",
+     "image": "images/c2729290.jpg"
+    },
+    {
+     "name": "Paris 2025",
+     "note": "",
+     "url": "https://shopmy.us/shop/collections/2728996",
+     "image": "images/c2728996.jpg"
+    },
+    {
+     "name": "New York 2025",
+     "note": "",
+     "url": "https://shopmy.us/shop/collections/2729008",
+     "image": "images/c2729008.jpg"
+    }
+   ]
+  },
+  {
+   "id": "latest",
+   "title": "Latest Finds",
+   "kind": "products",
+   "items": [
+    {
+     "brand": "Veronica Beard",
+     "item": "Bodie Long-Sleeve Jacket",
+     "price": "$898",
+     "url": "https://apiv3.shopmy.us/api/redirect_click?clickId=58191d0d-4e69-456b-80e0-f434ca89686c&url=https%3A%2F%2Fveronicabeard.com%2Fproducts%2Fbodie-long-sleeve-jacket-black%3Fvariant%3D47737592938667%26utm_source%3Dshopmy%26utm_medium%3Daffiliate%26utm_campaign%3DLatest%20Finds%26utm_content%3Dkcm%26utm_referrer%3Dshopmy.us",
+     "image": "images/p96819389.jpg"
+    },
+    {
+     "brand": "Sam Edelman",
+     "item": "Hazel Pointed Toe Pump",
+     "price": "$150",
+     "url": "https://www.pntrac.com/t/8-10217-213694-123806?url=https%3A%2F%2Fwww.samedelman.com%2Fproduct%2Fwomens-hazel-pointed-toe-pump-3015547%2Fbright-white-leather-ec0224458",
+     "image": "images/p94804930.jpg"
+    },
+    {
+     "brand": "JLUXLABEL",
+     "item": "Black Main Event Crop Top",
+     "price": "$70",
+     "url": "https://apiv3.shopmy.us/api/redirect_click?clickId=a2acbb95-f862-4bd5-a5ee-4502c19b3ac1&code=KRISTINA8&url=https%3A%2F%2Fjluxlabel.com%2Fproducts%2Fblack-main-event-crop-top%3Fvariant%3D44359441252440%26utm_source%3DShopMy%26utm_medium%3Daffiliate%26utm_campaign%3DKristina%20%26utm_content%3DLatest%20Finds%26utm_referrer%3Dshopmy.us",
+     "image": "images/p92896238.jpg"
+    },
+    {
+     "brand": "Kosas",
+     "item": "Impressionist Multistick Cheek + Lip",
+     "price": "$34",
+     "url": "https://apiv3.shopmy.us/api/redirect_click?clickId=895dacfb-1cd8-4b60-8a33-8f4232137db9&url=https%3A%2F%2Fkosas.com%2Fproducts%2Fimpressionist-multistick%3Futm_source%3DShopMy%26utm_medium%3Daffiliate%26utm_campaign%3DKristina%20%26utm_content%3DLatest%20Finds%26utm_referrer%3Dshopmy.us",
+     "image": "images/p93128399.jpg"
+    },
+    {
+     "brand": "Kosas",
+     "item": "Revealer Concealer",
+     "price": "$32",
+     "url": "https://apiv3.shopmy.us/api/redirect_click?clickId=5c89f69c-59b6-49cf-9fc4-dc3f51942b96&url=https%3A%2F%2Fkosas.com%2Fproducts%2Frevealer-concealer%3Futm_source%3DShopMy%26utm_medium%3Daffiliate%26utm_campaign%3DKristina%20%26utm_content%3DLatest%20Finds%26utm_referrer%3Dshopmy.us",
+     "image": "images/p93128247.jpg"
+    },
+    {
+     "brand": "Kosas",
+     "item": "Revealer Extra Bright Color Corrector",
+     "price": "$32",
+     "url": "https://apiv3.shopmy.us/api/redirect_click?clickId=6ed5a69c-c015-4266-b14d-de54786e87bb&url=https%3A%2F%2Fkosas.com%2Fproducts%2Frevealer-extra-bright%3Futm_source%3DShopMy%26utm_medium%3Daffiliate%26utm_campaign%3DKristina%20%26utm_content%3DLatest%20Finds%26utm_referrer%3Dshopmy.us",
+     "image": "images/p93128308.jpg"
+    },
+    {
+     "brand": "Kosas",
+     "item": "Cloud Set Setting Powder",
+     "price": "$19",
+     "url": "https://apiv3.shopmy.us/api/redirect_click?clickId=8d594c7e-c0e3-45b1-a6e7-f6de32496c99&url=https%3A%2F%2Fkosas.com%2Fproducts%2Fcloud-set%3Futm_source%3DShopMy%26utm_medium%3Daffiliate%26utm_campaign%3DKristina%20%26utm_content%3DLatest%20Finds%26utm_referrer%3Dshopmy.us",
+     "image": "images/p93128521.jpg"
+    },
+    {
+     "brand": "Kosas",
+     "item": "Cloud Set Loose Powder",
+     "price": "$38",
+     "url": "https://apiv3.shopmy.us/api/redirect_click?clickId=8b2f0eaa-2491-47f5-bb6d-9228dcee115c&url=https%3A%2F%2Fkosas.com%2Fproducts%2Fcloud-set-loose%3Futm_source%3DShopMy%26utm_medium%3Daffiliate%26utm_campaign%3DKristina%20%26utm_content%3DLatest%20Finds%26utm_referrer%3Dshopmy.us",
+     "image": "images/p93128471.jpg"
+    }
+   ]
+  },
+  {
+   "id": "codes",
+   "title": "Discount Codes",
+   "kind": "codes",
+   "items": [
+    {
+     "brand": "Glamsquad",
+     "code": "kmcinnis5438",
+     "url": "https://i.getgl.am/kmcinnis5438",
+     "image": "images/glamsquad2.jpg",
+     "note": "$20 toward your first at-home hair, makeup or nails booking",
+     "cta": "Book Glamsquad"
+    },
+    {
+     "brand": "Cured Nutrition",
+     "code": "KRISTINAM",
+     "url": "https://shopmy.us/shop/collections/8785323",
+     "image": "images/c8785323.jpg",
+     "note": "15% off with my code"
+    },
+    {
+     "brand": "Sonya Dakar",
+     "code": "kristinamcinnis",
+     "url": "https://shopmy.us/shop/collections/8785304",
+     "image": "images/c8785304.jpg",
+     "note": "15% off with my code"
+    },
+    {
+     "brand": "Sacheu",
+     "code": "KRISTINA1515",
+     "url": "https://shopmy.us/shop/collections/8785281",
+     "image": "images/sacheu-lip.jpg",
+     "note": "15% off with my code"
+    },
+    {
+     "brand": "Saltyface",
+     "code": "KRISTINA",
+     "url": "https://shopmy.us/shop/collections/2729359",
+     "image": "images/c2729359.jpg"
+    },
+    {
+     "brand": "Lineage Provisions",
+     "code": "KRISTINA15",
+     "url": "https://shopmy.us/shop/collections/2729351",
+     "image": "images/c2729351.jpg"
+    }
+   ]
+  },
+  {
+   "id": "feed",
+   "title": "Instagram & TikTok",
+   "kind": "tiles",
+   "items": [
+    {
+     "name": "Candle Holder DIY",
+     "note": "Shop the post",
+     "date": "2026-11-04",
+     "url": "https://shopmy.us/shop/collections/8767565",
+     "image": "images/c8767565.jpg"
+    },
+    {
+     "name": "Fall Hosting Snack Bar",
+     "note": "Shop the post",
+     "date": "2026-11-04",
+     "url": "https://shopmy.us/shop/collections/8766245",
+     "image": "images/c8766245.jpg"
+    },
+    {
+     "name": "Mini Engagement Party",
+     "note": "Shop the post",
+     "date": "2026-10-28",
+     "url": "https://shopmy.us/shop/collections/8590972",
+     "image": "images/c8590972.jpg"
+    },
+    {
+     "name": "Neon Carnival Outfit",
+     "note": "Shop the post",
+     "date": "2026-04-16",
+     "url": "https://shopmy.us/shop/collections/4842218",
+     "image": "images/c4842218.jpg"
+    },
+    {
+     "name": "Revolve Outfit",
+     "note": "Shop the post",
+     "date": "2026-04-16",
+     "url": "https://shopmy.us/shop/collections/4841645",
+     "image": "images/c4841645.jpg"
+    },
+    {
+     "name": "Nylon Coachella Outfit",
+     "note": "Shop the post",
+     "date": "2026-04-13",
+     "url": "https://shopmy.us/shop/collections/4801993",
+     "image": "images/c4801993.jpg"
+    },
+    {
+     "name": "Coachella Day 1",
+     "note": "Shop the post",
+     "date": "2026-04-13",
+     "url": "https://shopmy.us/shop/collections/4796544",
+     "image": "images/c4796544.jpg"
+    },
+    {
+     "name": "Spend the day with KCMCONNECT in Paris",
+     "note": "Shop the post",
+     "date": "2025-11-10",
+     "url": "https://shopmy.us/shop/collections/2837663",
+     "image": "images/c2837663.jpg"
+    },
+    {
+     "name": "Can you snag a cab? Norma Kamali at NYFW",
+     "note": "Shop the post",
+     "date": "2025-11-10",
+     "url": "https://shopmy.us/shop/collections/2837075",
+     "image": "images/c2837075.jpg"
+    },
+    {
+     "name": "Work trip diaries: Cosmoprof Vegas Guide",
+     "note": "Shop the post",
+     "date": "2025-11-10",
+     "url": "https://shopmy.us/shop/collections/2837519",
+     "image": "images/c2837519.jpg"
+    }
+   ]
+  },
+  {
+   "id": "gifts",
+   "title": "Gift Guides",
+   "kind": "tiles",
+   "items": [
+    {
+     "name": "With a Twist Birthday",
+     "note": "Gift guide",
+     "url": "https://shopmy.us/shop/collections/5043676",
+     "image": "images/c5043676c.jpg"
+    },
+    {
+     "name": "For the Bride",
+     "note": "Gift guide",
+     "url": "https://shopmy.us/shop/collections/2923961",
+     "image": "images/c2923961.jpg"
+    },
+    {
+     "name": "For the Entrepreneur",
+     "note": "Gift guide",
+     "url": "https://shopmy.us/shop/collections/2729647",
+     "image": "images/c2729647.jpg"
+    },
+    {
+     "name": "For the Lover",
+     "note": "Gift guide",
+     "url": "https://shopmy.us/shop/collections/2729666",
+     "image": "images/c2729666.jpg"
+    },
+    {
+     "name": "For the Jetsetter",
+     "note": "Gift guide",
+     "url": "https://shopmy.us/shop/collections/2729648",
+     "image": "images/c2729648.jpg"
+    },
+    {
+     "name": "For the Host or Hostess",
+     "note": "Gift guide",
+     "url": "https://shopmy.us/shop/collections/2814519",
+     "image": "images/c2814519.jpg"
+    },
+    {
+     "name": "For the Pet Parent",
+     "note": "Gift guide",
+     "url": "https://shopmy.us/shop/collections/2729618",
+     "image": "images/c2729618.jpg"
+    },
+    {
+     "name": "For Coworkers or Employees",
+     "note": "Gift guide",
+     "url": "https://shopmy.us/shop/collections/2814590",
+     "image": "images/c2814590.jpg"
+    },
+    {
+     "name": "For Clients",
+     "note": "Gift guide",
+     "url": "https://shopmy.us/shop/collections/2729663",
+     "image": "images/c2729663.jpg"
+    },
+    {
+     "name": "For In-Laws",
+     "note": "Gift guide",
+     "url": "https://shopmy.us/shop/collections/2729658",
+     "image": "images/c2729658.jpg"
+    },
+    {
+     "name": "For the Beauty Lover",
+     "note": "Gift guide",
+     "url": "https://shopmy.us/shop/collections/2729651",
+     "image": "images/c2729651.jpg"
+    }
+   ]
+  },
+  {
+   "id": "essentials",
+   "title": "The Essentials",
+   "kind": "tiles",
+   "items": [
+    {
+     "name": "The Inflammation Reset",
+     "note": "Essentials",
+     "url": "https://shopmy.us/shop/collections/4133776",
+     "image": "images/c4133776b.jpg"
+    },
+    {
+     "name": "Perfume",
+     "note": "Essentials",
+     "url": "https://shopmy.us/shop/collections/2817900",
+     "image": "images/c2817900.jpg"
+    },
+    {
+     "name": "Haircare",
+     "note": "Essentials",
+     "url": "https://shopmy.us/shop/collections/2817155",
+     "image": "images/c2817155.jpg"
+    },
+    {
+     "name": "Travel",
+     "note": "Essentials",
+     "url": "https://shopmy.us/shop/collections/2728940",
+     "image": "images/c2728940.jpg"
+    },
+    {
+     "name": "Wellness",
+     "note": "Essentials",
+     "url": "https://shopmy.us/shop/collections/2728932",
+     "image": "images/c2728932.jpg"
+    },
+    {
+     "name": "Skincare & Bodycare",
+     "note": "Essentials",
+     "url": "https://shopmy.us/shop/collections/2700297",
+     "image": "images/c2700297.jpg"
+    },
+    {
+     "name": "Makeup",
+     "note": "Essentials",
+     "url": "https://shopmy.us/shop/collections/2700294",
+     "image": "images/c2700294.jpg"
+    },
+    {
+     "name": "Home",
+     "note": "Essentials",
+     "url": "https://shopmy.us/shop/collections/2817475",
+     "image": "images/c2817475.jpg"
+    }
+   ]
+  },
+  {
+   "id": "events",
+   "title": "Events",
+   "kind": "tiles",
+   "items": [
+    {
+     "name": "Christmas",
+     "note": "Event",
+     "url": "https://shopmy.us/shop/collections/3205936",
+     "image": "images/c3205936.jpg"
+    },
+    {
+     "name": "Frenchgiving Party",
+     "note": "Event",
+     "url": "https://shopmy.us/shop/collections/2865020",
+     "image": "images/c2865020.jpg"
+    },
+    {
+     "name": "Ralph Lauren Inspired Dog Birthday",
+     "note": "Event",
+     "url": "https://shopmy.us/shop/collections/2837872",
+     "image": "images/c2837872.jpg"
+    }
+   ]
+  },
+  {
+   "id": "creators",
+   "title": "For Creators",
+   "kind": "cta",
+   "kicker": "Join ShopMy",
+   "heading": "Earn commission on the products you already love",
+   "body": "I use ShopMy to build my shop and earn on every link I share. Sign up with my invite to start your own.",
+   "button": "Join ShopMy with my link",
+   "url": "https://shopmy.us/join/kcm",
+   "image": "images/shopmy-cover.jpg"
+  }
+ ]
+}
