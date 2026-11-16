@@ -212,6 +212,62 @@
      "price": "",
      "url": "https://shopmy.us/shop/collections/6934933",
      "image": "https://static.shopmy.us/pins/zoom-106206034-1794852559423-LARX-WO450_V1.jpg"
+    },
+    {
+     "brand": "Veronica Beard",
+     "item": "Bodie Long-Sleeve Jacket",
+     "price": "$898",
+     "url": "https://apiv3.shopmy.us/api/redirect_click?clickId=58191d0d-4e69-456b-80e0-f434ca89686c&url=https%3A%2F%2Fveronicabeard.com%2Fproducts%2Fbodie-long-sleeve-jacket-black%3Fvariant%3D47737592938667%26utm_source%3Dshopmy%26utm_medium%3Daffiliate%26utm_campaign%3DLatest%20Finds%26utm_content%3Dkcm%26utm_referrer%3Dshopmy.us",
+     "image": "images/p96819389.jpg"
+    },
+    {
+     "brand": "Sam Edelman",
+     "item": "Hazel Pointed Toe Pump",
+     "price": "$150",
+     "url": "https://www.pntrac.com/t/8-10217-213694-123806?url=https%3A%2F%2Fwww.samedelman.com%2Fproduct%2Fwomens-hazel-pointed-toe-pump-3015547%2Fbright-white-leather-ec0224458",
+     "image": "images/p94804930.jpg"
+    },
+    {
+     "brand": "JLUXLABEL",
+     "item": "Black Main Event Crop Top",
+     "price": "$70",
+     "url": "https://apiv3.shopmy.us/api/redirect_click?clickId=a2acbb95-f862-4bd5-a5ee-4502c19b3ac1&code=KRISTINA8&url=https%3A%2F%2Fjluxlabel.com%2Fproducts%2Fblack-main-event-crop-top%3Fvariant%3D44359441252440%26utm_source%3DShopMy%26utm_medium%3Daffiliate%26utm_campaign%3DKristina%20%26utm_content%3DLatest%20Finds%26utm_referrer%3Dshopmy.us",
+     "image": "images/p92896238.jpg"
+    },
+    {
+     "brand": "Kosas",
+     "item": "Impressionist Multistick Cheek + Lip",
+     "price": "$34",
+     "url": "https://apiv3.shopmy.us/api/redirect_click?clickId=895dacfb-1cd8-4b60-8a33-8f4232137db9&url=https%3A%2F%2Fkosas.com%2Fproducts%2Fimpressionist-multistick%3Futm_source%3DShopMy%26utm_medium%3Daffiliate%26utm_campaign%3DKristina%20%26utm_content%3DLatest%20Finds%26utm_referrer%3Dshopmy.us",
+     "image": "images/p93128399.jpg"
+    },
+    {
+     "brand": "Kosas",
+     "item": "Revealer Concealer",
+     "price": "$32",
+     "url": "https://apiv3.shopmy.us/api/redirect_click?clickId=5c89f69c-59b6-49cf-9fc4-dc3f51942b96&url=https%3A%2F%2Fkosas.com%2Fproducts%2Frevealer-concealer%3Futm_source%3DShopMy%26utm_medium%3Daffiliate%26utm_campaign%3DKristina%20%26utm_content%3DLatest%20Finds%26utm_referrer%3Dshopmy.us",
+     "image": "images/p93128247.jpg"
+    },
+    {
+     "brand": "Kosas",
+     "item": "Revealer Extra Bright Color Corrector",
+     "price": "$32",
+     "url": "https://apiv3.shopmy.us/api/redirect_click?clickId=6ed5a69c-c015-4266-b14d-de54786e87bb&url=https%3A%2F%2Fkosas.com%2Fproducts%2Frevealer-extra-bright%3Futm_source%3DShopMy%26utm_medium%3Daffiliate%26utm_campaign%3DKristina%20%26utm_content%3DLatest%20Finds%26utm_referrer%3Dshopmy.us",
+     "image": "images/p93128308.jpg"
+    },
+    {
+     "brand": "Kosas",
+     "item": "Cloud Set Setting Powder",
+     "price": "$19",
+     "url": "https://apiv3.shopmy.us/api/redirect_click?clickId=8d594c7e-c0e3-45b1-a6e7-f6de32496c99&url=https%3A%2F%2Fkosas.com%2Fproducts%2Fcloud-set%3Futm_source%3DShopMy%26utm_medium%3Daffiliate%26utm_campaign%3DKristina%20%26utm_content%3DLatest%20Finds%26utm_referrer%3Dshopmy.us",
+     "image": "images/p93128521.jpg"
+    },
+    {
+     "brand": "Kosas",
+     "item": "Cloud Set Loose Powder",
+     "price": "$38",
+     "url": "https://apiv3.shopmy.us/api/redirect_click?clickId=8b2f0eaa-2491-47f5-bb6d-9228dcee115c&url=https%3A%2F%2Fkosas.com%2Fproducts%2Fcloud-set-loose%3Futm_source%3DShopMy%26utm_medium%3Daffiliate%26utm_campaign%3DKristina%20%26utm_content%3DLatest%20Finds%26utm_referrer%3Dshopmy.us",
+     "image": "images/p93128471.jpg"
     }
    ]
   },
