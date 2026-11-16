@@ -144,60 +144,74 @@
    "kind": "products",
    "items": [
     {
-     "brand": "Veronica Beard",
-     "item": "Bodie Long-Sleeve Jacket",
-     "price": "$898",
-     "url": "https://apiv3.shopmy.us/api/redirect_click?clickId=58191d0d-4e69-456b-80e0-f434ca89686c&url=https%3A%2F%2Fveronicabeard.com%2Fproducts%2Fbodie-long-sleeve-jacket-black%3Fvariant%3D47737592938667%26utm_source%3Dshopmy%26utm_medium%3Daffiliate%26utm_campaign%3DLatest%20Finds%26utm_content%3Dkcm%26utm_referrer%3Dshopmy.us",
-     "image": "images/p96819389.jpg"
+     "brand": "Amanda Uprichard",
+     "item": "Miles Jacket",
+     "price": "",
+     "url": "https://shopmy.us/shop/collections/6934933",
+     "image": "https://static.shopmy.us/uploads/pin-match-prepared%2Fbc9b1e31-6479-4816-b2f3-8a65c5a4fd15.jpg"
     },
     {
-     "brand": "Sam Edelman",
-     "item": "Hazel Pointed Toe Pump",
-     "price": "$150",
-     "url": "https://www.pntrac.com/t/8-10217-213694-123806?url=https%3A%2F%2Fwww.samedelman.com%2Fproduct%2Fwomens-hazel-pointed-toe-pump-3015547%2Fbright-white-leather-ec0224458",
-     "image": "images/p94804930.jpg"
+     "brand": "Amanda Uprichard",
+     "item": "Zip Fly Kelso Shorts",
+     "price": "",
+     "url": "https://shopmy.us/shop/collections/6934933",
+     "image": "https://static.shopmy.us/pins/zoom-106208710-1794852859402-AMAN-WF178_V1.jpg"
     },
     {
-     "brand": "JLUXLABEL",
-     "item": "Black Main Event Crop Top",
-     "price": "$70",
-     "url": "https://apiv3.shopmy.us/api/redirect_click?clickId=a2acbb95-f862-4bd5-a5ee-4502c19b3ac1&code=KRISTINA8&url=https%3A%2F%2Fjluxlabel.com%2Fproducts%2Fblack-main-event-crop-top%3Fvariant%3D44359441252440%26utm_source%3DShopMy%26utm_medium%3Daffiliate%26utm_campaign%3DKristina%20%26utm_content%3DLatest%20Finds%26utm_referrer%3Dshopmy.us",
-     "image": "images/p92896238.jpg"
+     "brand": "Spanx",
+     "item": "Suit Your Fancy Strapless Bodysuit",
+     "price": "",
+     "url": "https://shopmy.us/shop/collections/6934933",
+     "image": "https://static.shopmy.us/pins/zoom-106208474-1794852830941-SPAN-WI305_V1.jpg"
     },
     {
-     "brand": "Kosas",
-     "item": "Impressionist Multistick Cheek + Lip",
-     "price": "$34",
-     "url": "https://apiv3.shopmy.us/api/redirect_click?clickId=895dacfb-1cd8-4b60-8a33-8f4232137db9&url=https%3A%2F%2Fkosas.com%2Fproducts%2Fimpressionist-multistick%3Futm_source%3DShopMy%26utm_medium%3Daffiliate%26utm_campaign%3DKristina%20%26utm_content%3DLatest%20Finds%26utm_referrer%3Dshopmy.us",
-     "image": "images/p93128399.jpg"
+     "brand": "Eaves",
+     "item": "Naftali Polished Crepe Mini Shorts",
+     "price": "",
+     "url": "https://shopmy.us/shop/collections/6934933",
+     "image": "https://static.shopmy.us/pins/zoom-106207921-1794852768020-EAVR-WF2_V1.jpg"
     },
     {
-     "brand": "Kosas",
-     "item": "Revealer Concealer",
-     "price": "$32",
-     "url": "https://apiv3.shopmy.us/api/redirect_click?clickId=5c89f69c-59b6-49cf-9fc4-dc3f51942b96&url=https%3A%2F%2Fkosas.com%2Fproducts%2Frevealer-concealer%3Futm_source%3DShopMy%26utm_medium%3Daffiliate%26utm_campaign%3DKristina%20%26utm_content%3DLatest%20Finds%26utm_referrer%3Dshopmy.us",
-     "image": "images/p93128247.jpg"
+     "brand": "Eaves",
+     "item": "Loretta Pants - Ivory",
+     "price": "",
+     "url": "https://shopmy.us/shop/collections/6934933",
+     "image": "https://static.shopmy.us/pins/zoom-106207701-1794852743417-EAVR-WP46_V1.jpg"
     },
     {
-     "brand": "Kosas",
-     "item": "Revealer Extra Bright Color Corrector",
-     "price": "$32",
-     "url": "https://apiv3.shopmy.us/api/redirect_click?clickId=6ed5a69c-c015-4266-b14d-de54786e87bb&url=https%3A%2F%2Fkosas.com%2Fproducts%2Frevealer-extra-bright%3Futm_source%3DShopMy%26utm_medium%3Daffiliate%26utm_campaign%3DKristina%20%26utm_content%3DLatest%20Finds%26utm_referrer%3Dshopmy.us",
-     "image": "images/p93128308.jpg"
+     "brand": "Porsche x Revolve",
+     "item": "959 Rallye Jacket",
+     "price": "",
+     "url": "https://shopmy.us/shop/collections/6934933",
+     "image": "https://static.shopmy.us/uploads/1a3c2186-3536-4cc5-957d-733c2b4b4a72imageye___-_imgi_1_PCHR-WO3W_V2.jpg"
     },
     {
-     "brand": "Kosas",
-     "item": "Cloud Set Setting Powder",
-     "price": "$19",
-     "url": "https://apiv3.shopmy.us/api/redirect_click?clickId=8d594c7e-c0e3-45b1-a6e7-f6de32496c99&url=https%3A%2F%2Fkosas.com%2Fproducts%2Fcloud-set%3Futm_source%3DShopMy%26utm_medium%3Daffiliate%26utm_campaign%3DKristina%20%26utm_content%3DLatest%20Finds%26utm_referrer%3Dshopmy.us",
-     "image": "images/p93128521.jpg"
+     "brand": "Sau Lee",
+     "item": "Olena Jacket",
+     "price": "",
+     "url": "https://shopmy.us/shop/collections/6934933",
+     "image": "https://static.shopmy.us/uploads/pin-match-prepared%2F27d76c6d-14fe-4221-a140-dc07622957ee.jpg"
     },
     {
-     "brand": "Kosas",
-     "item": "Cloud Set Loose Powder",
-     "price": "$38",
-     "url": "https://apiv3.shopmy.us/api/redirect_click?clickId=8b2f0eaa-2491-47f5-bb6d-9228dcee115c&url=https%3A%2F%2Fkosas.com%2Fproducts%2Fcloud-set-loose%3Futm_source%3DShopMy%26utm_medium%3Daffiliate%26utm_campaign%3DKristina%20%26utm_content%3DLatest%20Finds%26utm_referrer%3Dshopmy.us",
-     "image": "images/p93128471.jpg"
+     "brand": "Susanna Chow",
+     "item": "Dorothy Suede Coat",
+     "price": "",
+     "url": "https://shopmy.us/shop/collections/6934933",
+     "image": "https://static.shopmy.us/pins/zoom-31357127-1763342002910-zoom-31356453-1763341624324-img-product-1762573803303"
+    },
+    {
+     "brand": "Lamarque",
+     "item": "Rosabella Faux Fur Blazer",
+     "price": "",
+     "url": "https://shopmy.us/shop/collections/6934933",
+     "image": "https://static.shopmy.us/pins/zoom-106206326-1794852591942-LARX-WO391_V1.jpg"
+    },
+    {
+     "brand": "Lamarque",
+     "item": "Mekia Jacket - Whisper White",
+     "price": "",
+     "url": "https://shopmy.us/shop/collections/6934933",
+     "image": "https://static.shopmy.us/pins/zoom-106206034-1794852559423-LARX-WO450_V1.jpg"
     }
    ]
   },
@@ -213,6 +227,76 @@
      "image": "images/glamsquad2.jpg",
      "note": "$20 toward your first at-home hair, makeup or nails booking",
      "cta": "Book Glamsquad"
+    },
+    {
+     "brand": "CurrentBody",
+     "code": "KRISTINAM",
+     "url": "https://shopmy.us/shop/collections/9036209",
+     "image": "https://static.shopmy.us/pins/zoom-product-98360-1682969905788-Bundle1.jpg",
+     "note": "20% off with my code"
+    },
+    {
+     "brand": "BodyGuardz",
+     "code": "KRISTINA15",
+     "url": "https://shopmy.us/shop/collections/9036177",
+     "image": "https://img.shopmy.us/eyJidWNrZXQiOiJwcm9kdWN0aW9uLXNob3BteXNoZWxmLXVwbG9hZHMiLCJrZXkiOiJwcmV0dHktcHJvZC0xNzc4MjI5NDM0NDkyIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoyMDQ4LCJmaXQiOiJjb3ZlciIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX19fQ==",
+     "note": "15% off with my code"
+    },
+    {
+     "brand": "Ondo",
+     "code": "KRISTINA",
+     "url": "https://shopmy.us/shop/collections/9036136",
+     "image": "https://static.shopmy.us/pins/zoom-104538991-1794505660181-2white_2gray_7d9e64fe-4e69-4dcb-b3c5-27d34afdd12e.jpg",
+     "note": "10% off with my code"
+    },
+    {
+     "brand": "Christophe Robin",
+     "code": "KRISTINAM20",
+     "url": "https://shopmy.us/shop/collections/9036075",
+     "image": "https://static.shopmy.us/pins/zoom-104538148-1794505562684-14403075-4185375913814152.jpg",
+     "note": "20% off with my code"
+    },
+    {
+     "brand": "U Beauty",
+     "code": "KRISTINAM20",
+     "url": "https://shopmy.us/shop/collections/9036041",
+     "image": "https://static.shopmy.us/pins/zoom-104537748-1794505519250-pdp_1_d_m_plc_universal_2x_179a8603-e4f0-4e90-8c4f-16003eb28e7a.webp",
+     "note": "20% off with my code"
+    },
+    {
+     "brand": "Midi",
+     "code": "KRISTINAK10",
+     "url": "https://shopmy.us/shop/collections/9036005",
+     "image": "https://img.shopmy.us/eyJidWNrZXQiOiJwcm9kdWN0aW9uLXNob3BteXNoZWxmLXVwbG9hZHMiLCJrZXkiOiJpbWctcHJvZHVjdC0xNzYwNTI5MjczMDMwIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoyMDQ4LCJmaXQiOiJjb3ZlciIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX19fQ==",
+     "note": "10% off with my code"
+    },
+    {
+     "brand": "Vivrelle",
+     "code": "KRISTINAMCINNIS",
+     "url": "https://shopmy.us/shop/collections/9035967",
+     "image": "https://mms.businesswire.com/media/20250603774608/en/2488411/22/Vivrelle_Logo.jpg",
+     "note": "Use my code at checkout"
+    },
+    {
+     "brand": "Aurate",
+     "code": "20-KRISTINA",
+     "url": "https://shopmy.us/shop/collections/9035943",
+     "image": "https://img.shopmy.us/eyJidWNrZXQiOiJwcm9kdWN0aW9uLXNob3BteXNoZWxmLXVwbG9hZHMiLCJrZXkiOiJwcmV0dHktcHJvZC0xNzYwNzcwNTIwOTIzIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoyMDQ4LCJmaXQiOiJjb3ZlciIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX19fQ==",
+     "note": "20% off with my code"
+    },
+    {
+     "brand": "JLUX Label",
+     "code": "KRISTINA8",
+     "url": "https://shopmy.us/shop/collections/8785570",
+     "image": "https://img.shopmy.us/eyJidWNrZXQiOiJwcm9kdWN0aW9uLXNob3BteXNoZWxmLXVwbG9hZHMiLCJrZXkiOiJpbWctcHJvZHVjdC0xNzkyNzcyMjg1NDA2IiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoyMDQ4LCJmaXQiOiJjb3ZlciIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX19fQ==",
+     "note": "8% off with my code"
+    },
+    {
+     "brand": "ZIIP Beauty",
+     "code": "KRISTINAHALO",
+     "url": "https://shopmy.us/shop/collections/8785508",
+     "image": "https://static.shopmy.us/pins/zoom-101200300-1793842838636-ZIIP_HALO_XMAS.png",
+     "note": "20% off with my code"
     },
     {
      "brand": "Cured Nutrition",
